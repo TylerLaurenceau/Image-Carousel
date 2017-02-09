@@ -1,0 +1,35 @@
+.pic {
+  overflow: hidden;
+  max-height: 726px; }
+
+.nextPic {
+  position: absolute;
+  top: 354px;
+  font-size: 40px;
+  background: black;
+  color: white;
+  padding: 5px;
+  left: 1242px;
+  opacity: .2;
+  border-radius: 10px; }
+
+.lastPic {
+  position: absolute;
+  top: 354px;
+  font-size: 40px;
+  background: black;
+  color: white;
+  padding: 5px;
+  left: 3px;
+  opacity: .2;
+  border-radius: 10px; }
+
+.nextPic:hover {
+  opacity: 50;
+  transition: all .5s ease-in-out;
+  cursor: pointer; }
+
+.lastPic:hover {
+  opacity: 50;
+  transition: all .5s ease-in-out;
+  cursor: pointer; }
