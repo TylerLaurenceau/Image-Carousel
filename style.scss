@@ -13,6 +13,7 @@
     left: 1242px;
     opacity: .2;
     border-radius: 10px;
+    transition: all .2s ease-in-out;
 }
 
 
@@ -26,6 +27,7 @@
   left: 3px;
   opacity: .2;
   border-radius: 10px;
+  transition: all .2s ease-in-out;
 }
 
 .nextPic:hover{

@@ -11,7 +11,8 @@
   padding: 5px;
   left: 1242px;
   opacity: .2;
-  border-radius: 10px; }
+  border-radius: 10px;
+  transition: all .2s ease-in-out; }
 
 .lastPic {
   position: absolute;
@@ -22,7 +23,8 @@
   padding: 5px;
   left: 3px;
   opacity: .2;
-  border-radius: 10px; }
+  border-radius: 10px;
+  transition: all .2s ease-in-out; }
 
 .nextPic:hover {
   opacity: 50;
